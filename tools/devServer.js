@@ -40,7 +40,7 @@ bs.init({
     ],
   },
 
-  port: 3000,
+  port: 8080,
 
   ui: {
     port: 3001,
